@@ -13,7 +13,7 @@ function Header() {
 function Main1() {
     return (
         <section>
-            <h2>Lorem ipsum</h2>
+            <h2 align="center">Lorem ipsum</h2>
             <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut 
                 labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris 
@@ -27,10 +27,15 @@ function Main1() {
 function Main2() {
     return (
         <section>
-            <h2>Lorem ipsum</h2>
+            <h2 align="center">Lorem ipsum</h2>
             <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut 
-                labore et dolore magna aliqua.
+                Orci nulla pellentesque dignissim enim sit amet venenatis urna cursus. Tincidunt tortor 
+                aliquam nulla facilisi cras. Volutpat blandit aliquam etiam erat velit scelerisque in dictum 
+                non. Aliquam malesuada bibendum arcu vitae. Massa ultricies mi quis hendrerit dolor magna. In 
+                ante metus dictum at tempor commodo ullamcorper a lacus. Tristique senectus et netus et 
+                malesuada fames ac turpis. Varius duis at consectetur lorem donec massa. Neque ornare aenean 
+                euismod elementum nisi quis eleifend quam adipiscing. Porttitor rhoncus dolor purus non enim 
+                praesent elementum.
             </p>
         </section>
     );
@@ -38,10 +43,14 @@ function Main2() {
 function Main3() {
     return (
         <section>
-            <h2>Lorem ipsum</h2>
+            <h2 align="center">Lorem ipsum</h2>
             <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut 
-                labore et dolore magna aliqua.
+                Habitasse platea dictumst quisque sagittis purus sit amet volutpat. Scelerisque fermentum dui 
+                faucibus in ornare quam viverra orci. Quam pellentesque nec nam aliquam sem et tortor. 
+                Sagittis nisl rhoncus mattis rhoncus urna neque viverra justo. Nisl nunc mi ipsum faucibus 
+                vitae. Pellentesque elit ullamcorper dignissim cras. Nibh sit amet commodo nulla. Ante metus 
+                dictum at tempor commodo. Pulvinar elementum integer enim neque volutpat ac tincidunt. 
+                Maecenas sed enim ut sem viverra aliquet eget sit.
             </p>
         </section>
     );
